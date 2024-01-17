@@ -31,9 +31,8 @@ Organized based on the MVC architectural pattern:
 1. Clone the repository: `git clone [repository URL]`
 2. Install dependencies: `npm install`
 3. Set up MongoDB Atlas account and configure database connection.
-4. Run the application: `npm start`
-5. Access the application in your browser at `http://localhost:3000`
-
+4. Run the application: `npm application.js'
+   
 ## Deployment
 
 Deployed on a hosting platform, utilizing MongoDB Atlas for database hosting. Configure environment variables for production deployment.
